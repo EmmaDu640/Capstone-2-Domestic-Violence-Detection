@@ -14,6 +14,7 @@ Please see a summary of findings and explanation of methodoligical judgements in
 
 [Notebook 1](https://github.com/EmmaDu640/Capstone-2-Domestic-Violence-Detection/blob/main/1-Data%20Collection%20(getting%20reddit%20posts%20using%20psaw).ipynb) demonstrates how the dataset is pulled from reddit via psaw.
 [Notebook 2](https://github.com/EmmaDu640/Capstone-2-Domestic-Violence-Detection/blob/main/2-Data%20Wrangling%20%26%20EDA%20.ipynb) is the data wragling, Exploratory Data Analysis, and feature engineering.
+
 In [Notebook 3](https://github.com/EmmaDu640/Capstone-2-Domestic-Violence-Detection/blob/main/3-NLP%20preprocessing.ipynb) the following NLP preprocessing was done:
   * Convert emojis to text
   * Using language-detection library langdetect to detect and remove non-English texts
