@@ -2,7 +2,7 @@
 ### Do you know that 1 in 4 women and 1 in 7 men have been victims of severe physical violence by an intimate partner? And more than 1 in 3 women and 1 in 4 men have experienced either physical violence, rape, or stalking by an intimate partner in their lifetime? 
 <img src="./images/dv.png" width=600 height=250>
 
-Those are staggering numbers that many people aren’t aware of. One of the biggest reasons is that victims often don’t talk about it with friends and family, instead many of them go online to search for answers or just to tell their stories and pour out their feelings. That’s why social media plays a major role to provide support and resources for victims. For instance, prompt national help hotline, nearby support groups, shelters, etc. 
+Those are staggering numbers that many people aren’t aware of. One of the biggest reasons is that victims often don’t talk about it with friends and family, instead many of them go online to search for answers or just to tell their stories and pour out their feelings. That’s why social media plays a major role to provide support and resources for victims. For instance, social media can prompt national help hotline, nearby support groups, shelters, etc. 
 
 This project focus on detecting domestic violence posts. 
 
